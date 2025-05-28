@@ -1,0 +1,5 @@
+[project]
+name = "semantic-scholar-fastmcp-mcp-server"
+version = "0.1.0"
+description = "A FastMCP server implementation for the Semantic Scholar API, providing comprehensive access to academic paper data, author information, and citation networks."
+requires-python = ">=3.10"
